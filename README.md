@@ -1,6 +1,8 @@
 # 📊 Sales Data Analysis (Mini EDA Project)
 
 This is a beginner-level exploratory data analysis project using synthetic sales data.
+## 📌 Tags
+`#EDA` `#Pandas` `#DataAnalysis` `#Portfolio` `#Python`
 
 ## 🧠 Goals
 - Perform data analysis using Pandas
